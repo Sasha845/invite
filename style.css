@@ -200,7 +200,7 @@ body * {
             rgba(18, 18, 17, 0) 2.03%,
             rgba(18, 18, 17, 0.6) 58.46%,
             rgba(18, 18, 17, 0.787) 90.36%),
-            url(../img/coffee.jpg);
+            url('./img/coffee.jpg');
 
 }
 
